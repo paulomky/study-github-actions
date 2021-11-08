@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0"
+  },
+  "name": "study-github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "ncc build src/index.js --license licenses.txt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/paulomky/study-github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulomky/study-github-actions/issues"
+  },
+  "homepage": "https://github.com/paulomky/study-github-actions#readme",
+  "description": ""
+}
